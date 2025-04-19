@@ -15,7 +15,7 @@ const commitMessages = [
     if (match) {
       console.log(`✅ Jira Key(s) found in: "${msg}" → ${match.join(", ")}`);
     } else {
-      console.log(`❌ No Jiraa Key found in: "${msg}"`);
+      console.log(`❌ No Jiraaa Key found in: "${msg}"`);
     }
   });
   
